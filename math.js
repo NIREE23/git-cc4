@@ -10,4 +10,5 @@ function Mul(a,b){
 }
 function add(a,b) {
     return a+b;
+    //this is the addition function
 }
