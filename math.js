@@ -12,3 +12,12 @@ function add(a,b) {
     return a+b;
     //this is addition numbers
 }
+function multiply(a,b) {
+    return a*b;
+    //this is multiplying numbers
+}
+function div(a,b) {
+    return a/b;
+    //this is division numbers
+}
+
