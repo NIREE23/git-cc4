@@ -10,5 +10,5 @@ function Mul(a,b){
 }
 function add(a,b) {
     return a+b;
-    //this is addition o ftwo numbers
+    //this is addition numbers
 }
