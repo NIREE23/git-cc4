@@ -12,3 +12,7 @@ function add(a,b) {
     return a+b;
     //this is addition numbers
 }
+function multiply(a,b) {
+    return a*b;
+    //this is addition numbers
+}
